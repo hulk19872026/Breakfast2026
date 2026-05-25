@@ -1,7 +1,7 @@
 {
   "name": "Global Breakfast Bible",
   "short_name": "Breakfast Bible",
-  "description": "770+ morning recipes from 72 countries across 6 continents. Search by ingredients or country, powered by AI.",
+  "description": "556 morning recipes from 57 countries across 5 continents. Search by ingredients or country, powered by AI.",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
